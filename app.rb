@@ -7,7 +7,7 @@ get '/' do
 end
 
 get '/new' do
-  status 200 
+  status 200
   erb :create_puppy
 end
 
