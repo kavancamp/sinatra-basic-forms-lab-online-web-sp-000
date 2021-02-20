@@ -7,6 +7,6 @@ def initialize(name = "", breed = "", age = 0)
   @name = name
   @age = age
   @breed = breed
-end 
+end
 
 end 
